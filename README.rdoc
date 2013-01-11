@@ -1,3 +1,13 @@
+{n}-[hack] v1.0 - NSIT Hackathon 
+
+
+Contributors
+============
+
+Shanjit Singh Jajmann (shanjitsingh@gmail.com)
+Website : www.shanjitsingh.in
+
+============
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
