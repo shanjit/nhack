@@ -131,17 +131,6 @@ h2.explain{line-height:34px;}
 
 
 
-/*PORTFOLIO*/
-#portfolio{padding-top:100px; margin-top: 80px; padding-bottom:80px;}
-.port{background:#eee; padding:80px 0; color: #000;}
-.portfolio .span4{margin-bottom:12px;}
-
-.portfoliocarousel h2{font-size:12px; line-height:14px; text-transform: uppercase;}
-.portfoliocarousel p{margin:0px;}
-
-.portfolio figure{margin:0; margin-right:5px; margin-bottom:10px;}
-
-
 /*CONTACT*/
 .contact{}
 #contact{padding-top:80px; padding-bottom:80px;}

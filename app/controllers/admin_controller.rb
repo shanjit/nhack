@@ -3,12 +3,12 @@ class AdminController < ApplicationController
     def index
     end
 
-    def count
+    def ipshita_count
         @count = Count.find(:all)
         render(:controller => "admin", :action => "index")
     end
 
-    def contact
+    def ipshita_contact
         @count = Contact.find(:all)
         render(:controller => "admin", :action => "index")
     end

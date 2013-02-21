@@ -9,5 +9,12 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require bootstrap-responsive
+ *= require bootstrap
+ *= require custom
+ *= require jquery.fancybox-1.3.4
+ *= require m-buttons
+ *= require m-forms.min
+ *= require m-styles.min
  *= require_tree .
  */

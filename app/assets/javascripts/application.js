@@ -12,4 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require anchor
+//= require bootstrap-scrollspy
+//= require custom
+//= require jquery.form
+//= require jquery.gmap
+//= require jquery.isotope.min
+//= require jquery.mousewheel-3.0.4.pack
 //= require_tree .

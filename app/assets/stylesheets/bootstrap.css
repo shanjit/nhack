@@ -4424,7 +4424,7 @@ width: 5px;
 }
 
 .navbar .nav > li > a:focus,
-.navbar .nav > li > a:hover {
+.navbar .nav .home > li > a:hover {
   color: #333333;
   text-decoration: none;
   background-color: transparent;
@@ -4435,6 +4435,8 @@ width: 5px;
        -o-transition: opacity 0.15s linear;
           transition: opacity 0.15s linear;
 }
+
+
 
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
